@@ -1,12 +1,11 @@
 ### Hi, there 👋,
+I'm Oluwasegun,
 
-Here are some ideas to get you started:
-
-- 🔭 I’m working on building my technical skills in Data Analysis
-- 🌱 I’m just completed Google Data Analytics on Coursera
-- 👯 I’m looking to collaborate on growing my skill and meeting new tech talents
-- 🤔 I’m looking for help with Python, R, SQL, Power BI, and Tableau
-- 💬 Ask me about anything data, python, SQL, visialization, construction, and cryptocurrency
+- 🔭 I’m a data enthusiast and working on building my technical skills in Data Analytics as I am self-learning,
+- 🌱 I’m on the verge on building more data science projects to solve real world complex problems,
+- 👯 I’m looking to collaborate on growing my skill and landing a job,
+- 🤔 I’m looking for more help with Python, R, SQL, Power BI, and Tableau,
+- 💬 Ask me about anything data, python, SQL, visialization, construction, and cryptocurrency.
 - 📫 How to reach me: http://www.linkedin.com/in/oluwasegun-mohammed
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm a lover of plantain
+- ⚡ Fun fact: I love horror movies.
