@@ -6,6 +6,6 @@ I'm Oluwasegun,
 - 👯 I’m looking to collaborate on growing my skill and landing a job,
 - 🤔 I’m looking for more help with Python, R, SQL, Power BI, and Tableau,
 - 💬 Ask me about anything data, python, SQL, visialization, construction, and cryptocurrency.
-- 📫 How to reach me: http://www.linkedin.com/in/oluwasegun-mohammed
+- 📫 How to reach me: [LinkedIn] (http://www.linkedin.com/in/oluwasegun-mohammed)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love horror movies.
